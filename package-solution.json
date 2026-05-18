@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sleep-health-webpart-client-side-solution",
+    "id": "7c9e1a3f-5b2d-4e68-a7c4-2f0b8d6e4a1c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": { "default": "Sleep optimization tools for SharePoint" },
+      "longDescription": { "default": "Caffeine Cutoff Calculator and sleep optimization tools" },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": []
+  },
+  "paths": {
+    "zippedPackage": "solution/sleep-health-webpart.sppkg"
+  }
+}

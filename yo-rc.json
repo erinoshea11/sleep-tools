@@ -1,0 +1,14 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.20.0",
+    "libraryName": "sleep-health-webpart",
+    "libraryId": "7c9e1a3f-5b2d-4e68-a7c4-2f0b8d6e4a1c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "productionApiBasePath": "",
+    "developmentApiBasePath": ""
+  }
+}

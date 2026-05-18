@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "4a2b8c3e-5d6f-4789-b2c1-1a3e5f7d9b0c",
+  "alias": "CaffeineCalculatorWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "supportedHosts": ["SharePointWebPart"],
+  "preconfiguredEntries": [
+    {
+      "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+      "group": { "default": "Other" },
+      "title": { "default": "Caffeine Cutoff Calculator" },
+      "description": { "default": "Calculate your optimal caffeine cutoff time using sleep science" },
+      "officeFabricIconFontName": "Bed",
+      "properties": {}
+    }
+  ]
+}
